@@ -1,0 +1,49 @@
+body{
+    color: #333333;
+    font-family: Arial;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+footer{
+    color: #888888;
+    border-top: 1px solid #eeeeee;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+
+header{
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+h1{
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+header a{
+    color: #888888;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.weather-display{
+    font-family: Arial;
+    font-size: medium;
+}
+
+input{
+    border: 1px solid #888888;
+    border-radius: 3px;
+    padding: 7px;
+}
+
+button{
+    border: 1px solid #888888;
+    border-radius: 10px;
+    padding: 7px;
+    color:white;
+    background:darkslategray;
+}
